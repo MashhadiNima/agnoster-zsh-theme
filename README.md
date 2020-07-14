@@ -27,9 +27,9 @@ To test if your terminal and font support it, check that all the necessary chara
 - Virtual environment
 - Random emojis
 
-![Screenshot](https://github.com/MashhadiNima/agnoster-zsh-theme/raw/master/screenshot1.png)
+![Screenshot](https://github.com/MashhadiNima/agnoster-zsh-theme/screenshot1.png)
 
-![Screenshot](https://github.com/MashhadiNima/agnoster-zsh-theme/raw/master/screenshot2.png)
+![Screenshot](https://github.com/MashhadiNima/agnoster-zsh-theme/screenshot2.png)
 
 ## How to use?
 
