@@ -35,7 +35,7 @@ To test if your terminal and font support it, check that all the necessary chara
 
 - Clone repo.
 - Copy "agnoster.zsh-theme" to your theme's shell directory.
-- Change theme in the shell resource. Example for ZSH:
+- Change theme in the shell resource.
   ```
   ZSH_THEME="agnoster"
   ```
